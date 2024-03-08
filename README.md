@@ -111,4 +111,8 @@ Ensure the integrity of the application by running the included tests.
 
 ### Email confirmation
 
-![alt text](/images/image-6.png)
+![email confirmation](/images/image-6.png)
+
+
+### Tests
+![tests image](/images/image-7.png)
