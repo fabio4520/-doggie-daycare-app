@@ -2,6 +2,18 @@
 
 Welcome to the Gr8 Dane Doggie Dude Ranch Booking System! This Django-based web application is designed to facilitate the booking of appointments for various dog services including grooming, walking, and more. Our system allows customers to easily manage their appointments and ensure their beloved pets receive the care they deserve.
 
+## Deployment to Production
+
+This application is currently deployed at [Doggie Daycare App](https://doggie-daycare-app.onrender.com). Follow the steps below to start app in localhost.
+
+### Environment Variables
+
+To run this project, you need to set up the following environment variables in your production environment. **Do not** hard-code these values in your source code or expose them in public repositories for security reasons.
+
+- `DEBUG`: Set to `False` in production to turn off debug mode.
+- `SECRET_KEY`: A secret key for a particular Django installation. Use a unique, unpredictable value.
+- `DATABASE_URL`: The URL for your database connection. Use the format provided by your database service provider.
+
 ## Features
 
 For all users:
